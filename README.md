@@ -7,7 +7,8 @@ This is a Flask application that provides a custom data dashboard for the solo.c
 
 The app also includes an embedded iframe that displays the user's farm on Solo.CKPool.org. 
 
-![Antminer S9  Solo FARM](./images/Screenshot (31).png)
+![Screenshot (31)](https://github.com/codercoins/solo.ckpool.org/assets/30527348/4e56bd83-cfcb-4602-8b47-184d953c2312)
+
 
 ## How to Use
 
