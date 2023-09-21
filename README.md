@@ -20,7 +20,7 @@ The app also includes an embedded iframe that displays the user's farm on Solo.C
 6. The dashboard should display in the browser.
 7. (Optional) Run as Hidden Service over TOR - First run the flask script then ust add the port number to your torrc file and make sure its set like this 80 127.0.0.1:5000 /var/ect/hiddenservice/
 8. (Optional) Run TOR and locate your hidden service url at /var/ect/hiddenservice/hostname/
-9. Enter .onion url in TOR Borwser and view your miner from anywhere in the world safely!
+9. (Optional) Enter .onion url in TOR Borwser and view your miner from anywhere in the world safely!
 
 ## Why it's Better
 
