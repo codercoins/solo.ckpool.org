@@ -3,7 +3,7 @@ Upgraded solo.ckpool.org miner site
 
 ## SOLO.CKPOOL.ORG | FARM | Data Dashboard
 
-This is a Flask application that provides a custom data dashboard for the solo.ckpool.org website and mining hardware. The dashboard displays real-time data including the number of workers, hashrate (1 minute), shares, and whether a block has been found. 
+This is a Python Flask application that provides a custom data dashboard for the solo.ckpool.org website and mining hardware. The dashboard displays real-time data updating the info on the page directly which is including the number of workers, hashrate (1 minute), shares, and whether a block has been found. 
 
 The app also includes an embedded iframe that displays the user's farm on Solo.CKPool.org. 
 
